@@ -1,5 +1,5 @@
 
-test/*.exe
+test/
 
 thirdparty_install/
 thirdparty_install.zip
